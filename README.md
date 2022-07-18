@@ -1,6 +1,6 @@
-# GoldOS c1.0.1
+# GoldOS Dev Beta Arch
 
-Hello! This is an OS that adds onto ubuntu to upgrade it.
+Hello! This is an OS that adds onto Arch Linux to upgrade it.
 
 To install, press the CODE button and then download the zip (Make sure you are using the main branch)
 
