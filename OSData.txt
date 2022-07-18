@@ -1,0 +1,13 @@
+PRETTY_NAME="GoldOS"
+NAME="GoldOS"
+VERSION_ID="c1.0.1"
+VERSION="c1.0.1 (Hills)"
+VERSION_CODENAME=hills
+ID=goldos
+ID_LIKE=arch
+HOME_URL="https://www.ubuntu.com/"
+SUPPORT_URL="https://help.ubuntu.com/"
+BUG_REPORT_URL="https://bugs.launchpad.net/ubuntu/"
+PRIVACY_POLICY_URL="https://www.ubuntu.com/legal/terms-and-policies/privacy-policy"
+ARCH_CODENAME=GoldOS
+BUILD_ID=2022-04-20.1
